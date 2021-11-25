@@ -12,4 +12,4 @@ I am currently an undergraduate student at University of California, Los Angeles
 
 I have worked as an undergraduate researcher at [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/). 
 
-I finished high school at No.1 Middle School Attached to CCNU in Wuhan China. I am happy to get to meet friends from anywhere around the world. If you wish to contact me for any reason, please go ahead and [email me](mailto:admin@cloudhadoop.com).
+I finished high school at No.1 Middle School Attached to CCNU in Wuhan China. I am happy to get to meet friends from anywhere around the world. If you wish to contact me, please go ahead and [email me](mailto:admin@cloudhadoop.com).
