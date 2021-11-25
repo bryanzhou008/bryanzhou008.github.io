@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yu Zhou"
 title_separator          : "-"
 name                     : &name "Yu Zhou"
-description              : &description "personal description"
+description              : &description "I am currently an undergraduate student at UCLA"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Yu Zhou"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "I am currently an undergraduate student at UCLA"
+  location         : "Los Angeles, CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
