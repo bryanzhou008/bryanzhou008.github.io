@@ -20,10 +20,9 @@ main:
     
 #   - title: "Guide"
 #     url: /markdown/
-
-  - title: "Contact"
-    url: /contact/
     
   - title: "Projects"
     url: /projects/
   
+  - title: "Contact"
+    url: /contact/
