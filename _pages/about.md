@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at University of California, Los Angeles. My academic interests fall in the subjects of Optimization, Machine Learning Data Analysis and Natural Language Processing. 
+I am currently an undergraduate student at University of California, Los Angeles. My academic interests are in the subjects of Optimization, Machine Learning,  Statistical Data Analysis and Natural Language Processing. 
 
 
 I am actively looking for research opportunities in related areas. Here is my latest [CV](/files/Yu Zhou CV.pdf).
@@ -17,4 +17,4 @@ I am actively looking for research opportunities in related areas. Here is my la
 I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/). 
 
 
-I am happy to get to meet friends from anywhere around the world. If you wish to contact me, please go ahead and [email me](mailto:admin@cloudhadoop.com).
+I am happy to connect with new friends from anywhere around the world. Please feel free to [email me](mailto:admin@cloudhadoop.com) at bryanzhou008 [AT] ucla [DOT] com.
