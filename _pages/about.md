@@ -25,4 +25,4 @@ I am happy to connect with new friends from anywhere around the world. Please fe
 
 For more info
 ======
-More info about me can be found in [Contact](/contact).
+More information about me can be found [here](/contact).
