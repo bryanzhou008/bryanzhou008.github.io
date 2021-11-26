@@ -19,6 +19,8 @@ I have worked as an undergraduate researcher at the [Knowledge Engineering Group
 
 I am happy to connect with new friends from anywhere around the world. Please feel free to [email me](mailto:admin@cloudhadoop.com) at bryanzhou008 [AT] ucla [DOT] com.
 
+News
+======
 
 
 For more info
