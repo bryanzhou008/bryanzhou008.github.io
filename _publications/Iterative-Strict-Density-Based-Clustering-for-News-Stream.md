@@ -1,7 +1,7 @@
 ---
 title: "Iterative Strict Density-Based Clustering for News Stream"
 collection: publications
-permalink: /publication/Iterative_Strict_Density-Based_Clustering_for_News_Stream
+permalink: /publication/Iterative-Strict-Density-Based-Clustering-for-News-Stream
 date: 2021/10/29
 venue: 'China Conference on Information Retrieval'
 ---
