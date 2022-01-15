@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at University of California, Los Angeles. My academic interests are in the subjects of Machine Learning, Optimization, Natural Language Processing and Computer Vision. 
+I am currently an undergraduate student at University of California, Los Angeles. My research interests are in the fields of NLP, CV, Data Mining, Database, General ML, and Statistical Learning.
 
 
 I am actively looking for research opportunities in related areas. Here is my latest [CV](/files/Yu Zhou CV.pdf).
@@ -25,4 +25,5 @@ I am happy to connect with new friends from anywhere around the world. Please fe
 
 For more info
 ======
-More information about me can be found [here](/contact).
+My publications can be found [here](/publications).
+My contact information can be found [here](/contact).
