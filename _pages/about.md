@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at University of California, Los Angeles. My research interests are in the fields of NLP, CV, Data Mining, Database, General ML, and Statistical Learning.
+I am currently an undergraduate student at University of California, Los Angeles. My research interests are in the fields of Natural Language Processing and Computer Vision.
 
 
-I am actively looking for research opportunities in related areas. Here is my latest [CV](/files/Yu Zhou CV.pdf).
+I am actively looking for research opportunities in related areas. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
 
 I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/). 
