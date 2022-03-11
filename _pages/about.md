@@ -22,10 +22,7 @@ I am happy to connect with new friends from anywhere around the world. Please fe
 <!-- News
 ======
  -->
-<iframe
-  src="https://paperswithcode.com/sota/object-detection-on-coco"
-  style="width:100%; height:300px;"
-></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 For more info
