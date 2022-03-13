@@ -24,10 +24,10 @@ I am happy to connect with new friends from anywhere around the world. To schedu
 
 News
 ======
-- [03/2022] A fun demo in my recent project for CS188-DLCV:
+- [03/2022] Here's a fun demo in my recent project for CS188-DLCV:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- [02/2022] I joined Prof. Heng Ji's Lab at UIUC.
+- [02/2022] I joined [BLENDER Lab](http://blender.cs.illinois.edu/index.html) as an undergraduate research assistant advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html) at UIUC.
 
 
 
