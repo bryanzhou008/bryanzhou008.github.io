@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an undergraduate student at University of California, Los Angeles. My research interests are in the fields of **Natural Language Processing** and **Computer Vision**.
+Hi, welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles. My research interests are in the fields of **Natural Language Processing** and **Computer Vision**.
 
 
 I am actively looking for research opportunities in related areas. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference. To schedule a meeting, please [email me](mailto:bryanzhou008@g.ucla.edu) at bryanzhou008 [AT] ucla [DOT] com.
