@@ -17,7 +17,7 @@ Previously, I have worked as an undergraduate researcher at the [Knowledge Engin
 
 For collaboration, please [email me](mailto:bryanzhou008@g.ucla.edu) at bryanzhou008 [AT] ucla [DOT] com. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
-<br/><br/>
+<br/>
 
 
 News
