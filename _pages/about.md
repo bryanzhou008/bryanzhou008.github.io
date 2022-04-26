@@ -10,12 +10,10 @@ redirect_from:
 
 Hi, welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). My research interest lies in applying machine learning techniques to **Natural Language Processing** and **Computer Vision**.
 
-<br/>
 
 Previously, I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/). 
 
 
-<br/>
 
 For collaboration, please [email me](mailto:bryanzhou008@g.ucla.edu) at bryanzhou008 [AT] ucla [DOT] com. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
