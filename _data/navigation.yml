@@ -12,8 +12,8 @@ main:
 #   - title: "Portfolio"
 #     url: /portfolio/
         
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  - title: "Blog Post"
+    url: https://ucladeepvision.github.io/CS188-Projects-2022Winter/2022/02/20/team09-MMDetection.html
     
   - title: "CV"
     url: /files/Yu (Bryan) Zhou CV.pdf
