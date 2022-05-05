@@ -3,17 +3,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-#   - title: "Talks"
-#     url: /talks/    
+  - title: "Talks"
+    url: https://drive.google.com/drive/folders/1Obt197aMgtK2qbhhUApfedFzImo9FgM6?usp=sharing
 
 #   - title: "Teaching"
 #     url: /teaching/    
     
 #   - title: "Portfolio"
 #     url: /portfolio/
-        
-  - title: "Blog Post"
-    url: https://ucladeepvision.github.io/CS188-Projects-2022Winter/2022/02/20/team09-MMDetection.html
     
   - title: "CV"
     url: /files/Yu (Bryan) Zhou CV.pdf
@@ -26,3 +23,6 @@ main:
   
   - title: "Contact"
     url: /contact/
+    
+  - title: "Blog Post"
+    url: https://ucladeepvision.github.io/CS188-Projects-2022Winter/2022/02/20/team09-MMDetection.html
