@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). My research interest lies in applying machine learning techniques to **Natural Language Processing** and **Computer Vision**.
+Hi there, welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). 
+
+
+My research interest lies in applying machine learning to **Natural Language Processing** and **Computer Vision**.
 
      
 
