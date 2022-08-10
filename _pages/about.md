@@ -43,5 +43,6 @@ For more info
 - My contact information can be found [here](/contact).
 
 
+<br/><br/>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
