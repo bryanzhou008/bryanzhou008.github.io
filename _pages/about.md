@@ -41,3 +41,7 @@ For more info
 ======
 - My publications can be found [here](/publications).
 - My contact information can be found [here](/contact).
+
+
+
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
