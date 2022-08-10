@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi there!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). 
+Welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). 
 
 
 My research interest lies in applying machine learning methods to **Natural Language Processing** and **Computer Vision**.
