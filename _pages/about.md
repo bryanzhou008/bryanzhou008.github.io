@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Hi there!"
-excerpt: "About me"
+excerpt: "Yu Zhou"
 author_profile: true
 redirect_from: 
   - /about/
