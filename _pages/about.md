@@ -49,4 +49,4 @@ Interactive Map
 ======
 <br/>
 
-<script type="text/javascript" id="clstr_globe" width="100" height="100" src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
+<script type="text/javascript" id="clstr_globe" style="width:50%; " src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
