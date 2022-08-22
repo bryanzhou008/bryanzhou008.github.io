@@ -45,4 +45,6 @@ For more info
 
 <br/><br/>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
+Interactive Map
+======
+<script type="text/javascript" id="clstr_globe" width="250" height="250" src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
