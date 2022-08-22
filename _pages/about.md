@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). 
+Welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). For summer 2022, I am interning at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC.
 
 
 My research interest lies in applying machine learning methods to **Natural Language Processing** and **Computer Vision**.
@@ -49,4 +49,4 @@ Interactive Map
 ======
 <br/>
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=350&d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=300&d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
