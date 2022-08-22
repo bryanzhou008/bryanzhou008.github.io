@@ -47,4 +47,6 @@ For more info
 
 Interactive Map
 ======
+<br/>
+
 <script type="text/javascript" id="clstr_globe" width="150" height="150" src="//clustrmaps.com/globe.js?d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
