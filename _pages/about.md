@@ -47,10 +47,10 @@ Reviewer for ACL 2023
 
 
 
-For more info
+<!-- For more info
 ======
 - My publications can be found [here](/publications).
-- My contact information can be found [here](/contact).
+- My contact information can be found [here](/contact). -->
 
 
 <br/><br/>
