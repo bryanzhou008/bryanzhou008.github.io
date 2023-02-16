@@ -23,6 +23,10 @@ For summer 2023, I am actively looking for research internship opportunities. Pl
 
 News
 ======
+- [07/2022] Look for me at NAACL 2023 (Seattle, WA), my first in-person conference!
+
+<br/><br/>
+
 - [03/2022] Here's a fun demo in my recent project for CS188-DLCV adviced by [Prof. Bolei Zhou](https://boleizhou.github.io/):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
