@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). I am broadly interested in **Natural Language Processing** and **Multimedia Learning** under the machine learning context. 
+Welcome to my homepage! I am currently an undergraduate student at University of California, Los Angeles (UCLA). I am broadly interested in **Natural Language Processing** and **Multimodal Learning** under the machine learning context. 
 
 
 
-I am current conducting NLP and Multimedia research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC, where I published my first lead-author work at ACL23 (main conf). Before that, I was a research intern at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I am current conducting NLP and Multimodal research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC, where I published my first lead-author work at ACL23 (main conf). Before that, I was a research intern at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
 
 <!-- I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/).  -->
 
