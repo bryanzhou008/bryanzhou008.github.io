@@ -17,7 +17,7 @@ I am current conducting NLP and Multimedia research at UCLA advised by [Prof. Na
 <!-- I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/).  -->
 
      
-I will graduate from UCLA in December 2023, beyond which I am actively seeking research internship opportunities and full-time PhD positions! Please [email me](mailto:yu.zhou@ucla.edu) at yu.zhou [AT] ucla [DOT] com. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
+I will graduate from UCLA in December 2023, beyond which I am actively seeking research internship opportunities and full-time PhD positions! Please [email me](mailto:yu.zhou@ucla.edu) at yu.zhou [AT] ucla [DOT] com if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
 <br/>
 
