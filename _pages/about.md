@@ -12,7 +12,7 @@ Welcome to my homepage! I am currently an undergraduate student at University of
 
 
 
-I am current conducting NLP and Multimedia research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC, where I published my first lead-author work at ACL23. Before that, I was a research intern at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I am current conducting NLP and Multimedia research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC, where I published my first lead-author work at ACL23 (main conf). Before that, I was a research intern at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
 
 <!-- I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/).  -->
 
@@ -24,11 +24,14 @@ I will graduate from UCLA in December 2023, beyond which I am actively seeking r
 
 News
 ======
-- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://bryanzhou008.github.io/files/Multimedia%20Schema.pdf) at the main conference!
+- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://bryanzhou008.github.io/files/Multimedia_Schema.pdf) at the main conference!
 
-- [02/2022] I joined [PLUS Lab](https://vnpeng.net/group/) as an undergraduate researcher advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
+
+- [02/2023] I joined [PLUS Lab](https://vnpeng.net/group/) as an undergraduate researcher advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
+
 
 - [07/2022] Meet me at NAACL 2023 (Seattle, WA) -- my first in-person conference!
+
 
 - [03/2022] Here's a fun demo in my recent project for CS188-DLCV adviced by [Prof. Bolei Zhou](https://boleizhou.github.io/):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
