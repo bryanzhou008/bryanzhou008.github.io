@@ -24,6 +24,10 @@ I will graduate from UCLA in December 2023, beyond which I am actively seeking r
 
 News
 ======
+- [07/2023] Find me at my ACL poster stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 - [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf) at the main conference!
 
 
