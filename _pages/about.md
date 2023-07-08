@@ -50,7 +50,7 @@ News
 Service
 ======
 
-Reviewer for ACL 2023
+Reviewer for EMNLP 2023
 
 
 <!-- For more info
