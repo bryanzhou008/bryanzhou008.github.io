@@ -12,12 +12,12 @@ Welcome to my homepage! I am currently an undergraduate student at University of
 
 
 
-I am current conducting NLP and Multimodal research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC, where I published [my first lead-author work](https://arxiv.org/pdf/2305.17542v1.pdf) at ACL 2023 (main conf). Before that, I was a research intern at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I am current conducting Multimodal and NLP research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji's Lab](http://blender.cs.illinois.edu/hengji/research.html) at UIUC, where I published [my first lead-author work](https://arxiv.org/pdf/2305.17542v1.pdf) at ACL 2023 (main conf). Before that, I was a research intern at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
 
 <!-- I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/).  -->
 
      
-I will graduate from UCLA in December 2023, beyond which I am actively seeking research internship opportunities and full-time PhD positions! Please [email me](mailto:yu.zhou@ucla.edu) at yu.zhou [AT] ucla [DOT] com if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
+I will graduate from UCLA in December 2023, beyond which I am applying for full-time PhD positions! I am also actively seeking research internship opportunities between Jan 24 - Sep 24. Please [email me](mailto:yu.zhou@ucla.edu) at yu.zhou [AT] ucla [DOT] com if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
 <br/>
 
