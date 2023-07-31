@@ -9,8 +9,8 @@ main:
   - title: "Blog Post"
     url: https://ucladeepvision.github.io/CS188-Projects-2022Winter/2022/02/20/team09-MMDetection.html
   
-  - title: "Project Report"
-    url: /files/CS249_Hard_Label_Black_Box_Attack_GNN.pdf
+  # - title: "Project Reports"
+  #   url: /files/CS249_Hard_Label_Black_Box_Attack_GNN.pdf
   
   - title: "Talk"
     url: https://youtu.be/zPpiBFDjfH0?t=2663
