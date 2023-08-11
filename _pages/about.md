@@ -28,7 +28,7 @@ News
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf) at the main conference!
+<!--- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf) at the main conference!-->
 
 
 - [02/2023] I joined [PLUS Lab](https://vnpeng.net/group/) as an undergraduate researcher advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
