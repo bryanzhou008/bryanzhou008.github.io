@@ -1,7 +1,7 @@
 ---
 title: "Non-Sequential Graph Script Induction via Multimedia Grounding"
 collection: publications
-permalink: https://aclanthology.org/2023.acl-long.303.pdf
+permalink: https://aclanthology.org/2023.acl-long.303/
 date: 2023/05/27
 venue: 'Proceedings of the Conference of the 61st Annual Meeting of the Association for Computational Linguistics (ACL)'
 ---
