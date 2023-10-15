@@ -17,7 +17,7 @@ I am current conducting Multimodal and NLP research at UCLA advised by [Prof. Na
 <!-- I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/).  -->
 
      
-I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-time PhD positions**! I am also **actively seeking research internships (academia & industry) between Jan 24 - Sep 24**. Please [email me](mailto:yu.zhou@ucla.edu) at yu.zhou [AT] ucla [DOT] com if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
+I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-time PhD positions**! Please [email me](mailto:yu.zhou@ucla.edu) if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
 <br/>
 
@@ -27,11 +27,11 @@ Selected Publications
 ---
 
 **[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
-<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> ACL 2023 </font> <br/>
+<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/>
 
 
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em> <font color="red"> EMNLP 2023 </font> <br/>
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023 </font> <br/>
 
 
 <br/>
