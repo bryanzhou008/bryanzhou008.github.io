@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Yu Zhou"
   avatar           : "IMG_3857 copy.JPG" #"Yu Zhou avatar copy.JPG"
-  bio              : "Undergraduate student at UCLA"
+  bio              : "Undergraduate Researcher @ UCLA"
   location         : "Los Angeles, CA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&authuser=1&user=61rJc-YAAAAJ" #"http://yourfullgooglescholarurl.com"
   email            : "bryanzhou008@ucla.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yu-Zhou-103" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # "https://www.researchgate.net/profile/Yu-Zhou-103" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "yu_bryan_zhou"
   vine             :
   weibo            :
   xing             :
