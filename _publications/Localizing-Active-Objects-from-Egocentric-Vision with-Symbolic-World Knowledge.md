@@ -1,7 +1,7 @@
 ---
 title: "Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge"
 collection: publications
-permalink: https://openreview.net/forum?id=hWNsvpWfhy
+permalink: Localizing-Active-Objects-from-Egocentric-Vision-with-Symbolic-World-Knowledge
 date: 2023/10/06
 venue: 'Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing
 '
