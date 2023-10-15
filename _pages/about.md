@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). My current research focuses on the topics of **Multimodality**, **Generation**, and **Social Computing**. 
+Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). My current research focuses on topics including **Multimodalality**, **Information Extraction**, and **Social Computing**. I am also broadly interested in **Model Evaluation** and **Generation** under the multimodal context. 
 
 
 I am current conducting Multimodal and NLP research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC, where I worked on Multimodal Event Graph Schema Induction [(ACL 23)](https://aclanthology.org/2023.acl-long.303/). Before that, I was a research intern at the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) - Tsinghua University advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
@@ -39,7 +39,7 @@ News
 - [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the main conference!
 
 
-- [07/2023] Find me at my ACL poster stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and video below:
+- [07/2023] Find me at my ACL poster stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and spotlight video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
@@ -57,7 +57,6 @@ News
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
 <br/><br/>
 
 
@@ -73,9 +72,8 @@ Services
 
 
 
-<br/><br/><br/><br/>
+<br/><br/>
 
-Interactive Visitor Map
 ======
 ---
 <br/>
