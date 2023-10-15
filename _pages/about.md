@@ -24,15 +24,14 @@ I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-ti
 
 Selected Publications
 ======
+---
 
 **[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
-<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em>
-<font color="red"> ACL 2023 </font> <br/>
+<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> ACL 2023 </font> <br/>
 
 
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em>
-<font color="red"> EMNLP 2023 </font> <br/>
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em> <font color="red"> EMNLP 2023 </font> <br/>
 
 
 <br/>
@@ -40,6 +39,7 @@ Selected Publications
 
 News
 ======
+---
 - [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the main conference!
 
 
@@ -55,12 +55,11 @@ News
 
 - [07/2022] Meet me at NAACL 2023 (Seattle, WA) -- my first in-person conference!
 
+- [02/2022] I joined [BLENDER Lab](http://blender.cs.illinois.edu/index.html) as an undergraduate researcher advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html) at UIUC.
 
-- [03/2022] Here's a fun demo in my recent project for CS188-DLCV adviced by [Prof. Bolei Zhou](https://boleizhou.github.io/):
+- [02/2022] Here's a fun demo in my recent project for CS188-DLCV adviced by [Prof. Bolei Zhou](https://boleizhou.github.io/):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-- [02/2022] I joined [BLENDER Lab](http://blender.cs.illinois.edu/index.html) as an undergraduate researcher advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html) at UIUC.
 
 
 <br/><br/>
@@ -68,21 +67,21 @@ News
 
 Services
 ======
+---
 
-Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
-Student Volunteer @ ACL 2023
+- Programme Committee/Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
 
-
-<!-- For more info
-======
-- My publications can be found [here](/publications).
-- My contact information can be found [here](/contact). -->
+- Student Volunteer @ ACL 2023
 
 
-<br/><br/>
+
+
+
+<br/><br/><br/><br/>
 
 Interactive Visitor Map
 ======
-<br/>
+---
+<br/><br/>
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=300&d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
