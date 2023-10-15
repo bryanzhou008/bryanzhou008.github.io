@@ -25,13 +25,13 @@ I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-ti
 Selected Publications
 ======
 
-**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf)** <br/>
-<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <br/>
+**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
+<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em>
 <font color="red"> ACL 2023 </font> <br/>
 
 
-**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge] (https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em> <br/>
+**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em>
 <font color="red"> EMNLP 2023 </font> <br/>
 
 
@@ -47,7 +47,7 @@ News
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first lead author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf) at the main conference!
+- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first lead author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf) at the main conference!
 
 
 - [02/2023] I joined [PLUS Lab](https://vnpeng.net/group/) as an undergraduate researcher advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
@@ -69,8 +69,7 @@ News
 Services
 ======
 
-Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track
-
+Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
 Student Volunteer @ ACL 2023
 
 
