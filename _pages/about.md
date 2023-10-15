@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). I am broadly interested in **Natural Language Processing** and **Computer Vision** under the machine learning context. 
+Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). My current research interests include **Multimodal Learning**, **Generation** (text and image), and **Social Computing**. 
 
 
 
@@ -22,9 +22,25 @@ I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-ti
 <br/>
 
 
+Selected Publications
+======
+
+**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf)**
+<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em>
+<font color="red"> ACL 2023 </font>
+
+
+**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)**
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em>
+<font color="red"> EMNLP 2023 </font> 
+
+
+<br/>
+
+
 News
 ======
-- [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge]([https://arxiv.org/pdf/2305.17542v1.pdf](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)) at the main conference!
+- [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the main conference!
 
 
 - [07/2023] Find me at my ACL poster stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and video below:
@@ -50,10 +66,11 @@ News
 <br/><br/>
 
 
-Service
+Services
 ======
 
 Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track
+Student Volunteer @ ACL 2023
 
 
 <!-- For more info
@@ -64,7 +81,7 @@ Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track
 
 <br/><br/>
 
-Interactive Map
+Interactive Visitor Map
 ======
 <br/>
 
