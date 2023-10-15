@@ -11,10 +11,7 @@ redirect_from:
 Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). My current research focuses on the topics of **Multimodality**, **Generation**, and **Social Computing**. 
 
 
-
 I am current conducting Multimodal and NLP research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC, where I worked on Multimodal Event Graph Schema Induction [(ACL 23)](https://aclanthology.org/2023.acl-long.303/). Before that, I was a research intern at the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) - Tsinghua University advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
-
-<!-- I have worked as an undergraduate researcher at the [Knowledge Engineering Group - Tsinghua University](https://keg.cs.tsinghua.edu.cn/) advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/) in 2021. Before that, I was a research intern at the [Structures-Computer Interaction Laboratory - UCLA](https://structures.computer/) under [Prof. M. Khalid Jawed](http://www.khalidjawed.com/).  -->
 
      
 I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-time PhD positions**! Please [email me](mailto:yu.zhou@ucla.edu) if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
@@ -69,7 +66,7 @@ Services
 ======
 ---
 
-- Programme Committee/Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
+- Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
 
 - Student Volunteer @ ACL 2023
 
@@ -77,11 +74,10 @@ Services
 
 
 
-<br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 
 Interactive Visitor Map
 ======
 ---
-<br/><br/>
-
+<br/>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=300&d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
