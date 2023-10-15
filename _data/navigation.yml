@@ -12,8 +12,8 @@ main:
   # - title: "Project Reports"
   #   url: /files/CS249_Hard_Label_Black_Box_Attack_GNN.pdf
   
-  - title: "Talks"
-    url: /pages/about.md
+  - title: "Talk"
+    url: https://www.youtube.com/watch?v=fZ1MWM0o6l4
     
   - title: "Contact"
     url: /contact/
