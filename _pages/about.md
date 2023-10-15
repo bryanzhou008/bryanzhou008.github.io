@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). My current research interests include **Multimodal Learning**, **Generation** (text and image), and **Social Computing**. 
+Welcome to my homepage! I am currently an undergraduate student researcher at University of California, Los Angeles (UCLA). My current research focuses on the topics of **Multimodality**, **Generation**, and **Social Computing**. 
 
 
 
@@ -25,14 +25,14 @@ I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-ti
 Selected Publications
 ======
 
-**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf)**
-<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em>
-<font color="red"> ACL 2023 </font>
+**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://arxiv.org/pdf/2305.17542v1.pdf)** <br/>
+<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <br/>
+<font color="red"> ACL 2023 </font> <br/>
 
 
-**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)**
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em>
-<font color="red"> EMNLP 2023 </font> 
+**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge] (https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em> <br/>
+<font color="red"> EMNLP 2023 </font> <br/>
 
 
 <br/>
@@ -70,6 +70,7 @@ Services
 ======
 
 Reviewer for ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track
+
 Student Volunteer @ ACL 2023
 
 
