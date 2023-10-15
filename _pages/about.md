@@ -30,6 +30,9 @@ Selected Publications
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
 <em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>**, Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023 </font> <br/>
 
+<br/>
+
+For a complete list of my published works, please refer to [my publications page](/publications).
 
 <br/>
 
@@ -74,10 +77,21 @@ Services
 
 
 
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 
 Interactive Visitor Map
 ======
 ---
 <br/>
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?&w=300&d=YG3LLVlq54HoY9rGWpc4hPvuYUkUMn3z9Oy4kPbWotI"></script>
+
+
+
+
+
+
+
+<!-- For more info
+======
+- My publications can be found [here](/publications).
+- My contact information can be found [here](/contact). -->
