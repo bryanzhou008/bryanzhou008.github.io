@@ -27,7 +27,7 @@ Selected Publications
 <em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/>
 
 
-**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing)** <br/>
+**[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://arxiv.org/pdf/2310.15066v1.pdf)** <br/>
 <em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023 </font> <br/><br/> For a **complete list** of my published papers, please refer to my [publications page](/publications).
 
 <br/>
