@@ -66,7 +66,7 @@ Services
 
 - Programme Committee / Reviewer: ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
 
-- Rewards Committee: SoCal NLP Symposium 2023 <br/>
+- Awards Committee: SoCal NLP Symposium 2023 <br/>
 
 - Student Volunteer: ACL 2023
 
