@@ -28,7 +28,7 @@ Selected Publications
 
 
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://arxiv.org/pdf/2310.15066v1.pdf)** <br/>
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023 </font> <br/><br/> For a **complete list** of my published papers, please refer to my [publications page](/publications).
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023 **(Oral)** </font> <br/><br/> For a **complete list** of my published papers, please refer to my [publications page](/publications).
 
 <br/>
 
