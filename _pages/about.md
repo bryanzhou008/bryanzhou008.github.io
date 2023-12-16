@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student at UCLA. My existing research focuses on topics including **Multimodal Learning**, **Events**, **Social Computing**, and **AI for Science**. I am also broadly interested in **Generation** and **Evaluation** under the multimodal and NLP context. 
+Welcome to my homepage! I am currently an undergraduate student at UCLA. My existing research focuses on topics including **Multimodal Learning**, **Events**, **Social Computing**, and **AI for Science**. I am also broadly interested in **Generation** and **Evaluation** under the multimodal context. 
 
 
 I am current conducting Multimodal and NLP research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC, where I worked on Multimodal Event Graph Schema Induction [(ACL 23)](https://aclanthology.org/2023.acl-long.303/). Before that, I was a research intern at the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) - Tsinghua University advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
