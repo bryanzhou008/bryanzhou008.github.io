@@ -37,7 +37,7 @@ News
 ======
 ---
 
-- [12/2023] Come to my EMNLP 2023 Oral Presentation during 17:15 - 17:30 local time (Dec 08) at Central 1 Ballroom, Resorts World, Sentosa, Singapore. For those who are remote, please feel free to check out my spotlight video:
+- [12/2023] Find me at my EMNLP 2023 Oral Presentation during 17:15 - 17:30 local time (Dec 08) at Central 1 Ballroom, Resorts World, Sentosa, Singapore. For those who are remote, please feel free to check out my spotlight video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_yDXUriRZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the main conference during oral sessions!
