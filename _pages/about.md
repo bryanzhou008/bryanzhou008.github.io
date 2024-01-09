@@ -44,6 +44,8 @@ News
 - [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the main conference during oral sessions!
 -->
 
+- [11/2023] Meet me at The SoCal NLP Symposium (Los Angeles, CA) -- where I will present my lead-author works [Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf) and [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the poster sessions!
+
 - [07/2023] Find me at my ACL poster stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and spotlight video below:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
