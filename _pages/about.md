@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently an undergraduate student at UCLA. My existing research focuses on helping models understand and reason about the world by learning from multimodal data sources including **text**, **vision**, **human interactions**, and more. I am also interested in finding novel ways to apply these models towards social good and scientific advancement.
+Welcome to my homepage! I am an undergraduate researcher at UCLA. My existing works focus on helping models understand and reason about the world by learning from multimodal data sources including **text**, **vision**, **human interactions**, and more. I am also interested in applying these models towards **social good** and **scientific advancement**.
 
 
 <!---
