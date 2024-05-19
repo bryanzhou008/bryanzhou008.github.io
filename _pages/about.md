@@ -17,8 +17,6 @@ topics including **Multimodal Learning**, **Events**, **Social Computing**, and 
 
 I'm also an incoming PhD at UCLA working with [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC and the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) at Tsinghua University.
 
-     
-I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-time PhD positions**! Please [drop me a line](mailto:yu.zhou@ucla.edu) if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
 
 <br/>
 
