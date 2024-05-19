@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am an undergraduate researcher at UCLA. My existing works focus on helping models understand and reason about the world by learning from multimodal data sources including **text**, **vision**, **human interactions**, and more. I am also interested in applying these models towards **social good** and **scientific advancement**.
+Welcome to my homepage! I am currently a visiting researcher at Stanford SVL. My existing research focuses on helping models learn from **text**, **vision**, **human interactions**, and more. I am also interested in applying these models towards **social good** and **scientific advancement**.
 
 
 <!---
 topics including **Multimodal Learning**, **Events**, **Social Computing**, and **AI for Science**. I am also broadly interested in **Generation** and **Evaluation** under the multimodal context. 
 -->
 
-I am current conducting Multimodal and NLP research at UCLA advised by [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC, where I worked on Multimodal Event Graph Schema Induction [(ACL 23)](https://aclanthology.org/2023.acl-long.303/). Before that, I was a research intern at the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) - Tsinghua University advised by [Prof. Juanzi Li](http://keg.cs.tsinghua.edu.cn/persons/ljz/).
+I'm also an incoming PhD at UCLA working with [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC and the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) at Tsinghua University.
 
      
 I will graduate from UCLA in Dec. 2023, beyond which **I am applying for full-time PhD positions**! Please [drop me a line](mailto:yu.zhou@ucla.edu) if you think I'm a good fit. Here is my [CV](/files/Yu Zhou CV.pdf) for your reference.
