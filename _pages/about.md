@@ -26,7 +26,7 @@ Selected Publications
 ---
 
 **[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
-<em>**Yu Zhou**, Sha Li, Li Manling, Lin Xudong, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/>
+<em>**Yu Zhou**, Sha Li, Manling Li, Xudong Lin, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/>
 
 
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://aclanthology.org/2023.emnlp-main.304.pdf)** <br/>
