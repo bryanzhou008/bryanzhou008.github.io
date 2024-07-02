@@ -25,6 +25,10 @@ Selected Publications
 ======
 ---
 
+**[Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://embodied-agent-eval.github.io/)** <br/>
+<em>Manling Li<sup>*</sup>, Shiyu Zhao<sup>*</sup>, Qineng Wang<sup>*</sup>, Kangrui Wang<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Sanjana Srivastava, Cem Gokmen, Tony Lee, Li Erran Li, Ruohan Zhang, Weiyu Liu, Percy Liang, Li Fei-Fei, Jiayuan Mao, Jiajun Wu </em> <font color="red"> <br/> Neurips 2024   <strong>  (Under Submission)</strong> </font> <br/>
+
+
 **[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
 <em>**Yu Zhou**, Sha Li, Manling Li, Xudong Lin, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/>
 
