@@ -29,12 +29,12 @@ Selected Publications
 <em>Manling Li<sup>*</sup>, Shiyu Zhao<sup>*</sup>, Qineng Wang<sup>*</sup>, Kangrui Wang<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Sanjana Srivastava, Cem Gokmen, Tony Lee, Li Erran Li, Ruohan Zhang, Weiyu Liu, Percy Liang, Li Fei-Fei, Jiayuan Mao, Jiajun Wu </em> <font color="red"> <br/> Neurips 2024  (Under Submission) </font> <br/>
 
 
-**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
-<em>**Yu Zhou**, Sha Li, Manling Li, Xudong Lin, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/>
-
-
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://aclanthology.org/2023.emnlp-main.304.pdf)** <br/>
-<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023   <strong>  (Oral Presentation)</strong> </font> <br/><br/> For a **complete list** of my published papers, please refer to my [publications page](/publications).
+<em>Te-Lin Wu<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Nanyun Peng</em> <font color="red"> <br/> EMNLP 2023   <strong>  (Oral Presentation)</strong> </font> <br/>
+
+
+**[Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf)** <br/>
+<em>**Yu Zhou**, Sha Li, Manling Li, Xudong Lin, Shih-Fu Chang, Mohit Bansal, Heng Ji</em> <font color="red"> <br/> ACL 2023 </font> <br/> <br/> For a **complete list** of my published papers, please refer to my [publications page](/publications).
 
 <br/>
 
