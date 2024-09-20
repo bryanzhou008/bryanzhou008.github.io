@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently a researcher at Stanford SVL. My existing works focus on helping models learn from **text**, **vision**, **human interactions**, and more. I am also interested in applying these models towards **social good** and **scientific advancement**.
+Welcome to my homepage! I am currently a researcher at [Stanford SVL](https://svl.stanford.edu/). My existing works focus on helping models learn from **text**, **vision**, **human interactions**, and more. I am also interested in applying these models towards **social good** and **scientific advancement**.
 
 
 <!---
