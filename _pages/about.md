@@ -26,7 +26,7 @@ Selected Publications
 ---
 
 **[Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making](https://embodied-agent-eval.github.io/)** <br/>
-<em>Manling Li<sup>*</sup>, Shiyu Zhao<sup>*</sup>, Qineng Wang<sup>*</sup>, Kangrui Wang<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Sanjana Srivastava, Cem Gokmen, Tony Lee, Li Erran Li, Ruohan Zhang, Weiyu Liu, Percy Liang, Li Fei-Fei, Jiayuan Mao, Jiajun Wu </em> <font color="red"> <br/> Neurips 2024  (Under Submission) </font> <br/>
+<em>Manling Li<sup>*</sup>, Shiyu Zhao<sup>*</sup>, Qineng Wang<sup>*</sup>, Kangrui Wang<sup>*</sup>, **Yu Zhou<sup>*</sup>** (equal contribution), Sanjana Srivastava, Cem Gokmen, Tony Lee, Li Erran Li, Ruohan Zhang, Weiyu Liu, Percy Liang, Li Fei-Fei, Jiayuan Mao, Jiajun Wu </em> <font color="red"> <br/> Neurips 2024  (Oral) </font> <br/>
 
 
 **[Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://aclanthology.org/2023.emnlp-main.304.pdf)** <br/>
