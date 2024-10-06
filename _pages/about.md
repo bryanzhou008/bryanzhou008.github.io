@@ -11,7 +11,7 @@ redirect_from:
 Hi, welcome to my homepage! I am a first year Computer Science Ph.D. student at UCLA. I am fortunate to be advised by [Prof. Nanyun Peng](https://violetpeng.github.io/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), focusing on problems in multimodal (language + vision) and embodied learning.
 
 
-Recently, I enjoyed a wonderful 6-month visit to [Stanford SVL](https://svl.stanford.edu/), working with [Prof. Jiajun Wu](https://jiajunwu.com/) and [Prof. Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). I've also spend a wonderful summer at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC in 2022.
+Recently, I enjoyed a wonderful 6-month visit to [Stanford SVL](https://svl.stanford.edu/), working with [Prof. Jiajun Wu](https://jiajunwu.com/) and [Prof. Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). I've also spend a wonderful summer at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC-NLP.
 
 
 <br/>
@@ -39,31 +39,45 @@ News
 ======
 ---
 
-- [12/2023] Find me at my EMNLP 2023 Oral Presentation during 17:15 - 17:30 local time (Dec 08) at Central 1 Ballroom, Resorts World, Sentosa, Singapore. For those who are remote, please feel free to check out my spotlight video:
+- [12/2023] Meet me at my EMNLP 2023 Oral Presentation on Dec 8th (Sentosa, Singapore).
+
+<!--- during 17:15 - 17:30 local time (Dec 08) at Central 1 Ballroom, Resorts World, Sentosa, Singapore. For those who are remote, please feel free to check out my spotlight video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t_yDXUriRZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 <!---
 - [10/2023] Meet me at EMNLP 2023 (Sentosa, Singapore) -- where I will present another lead-author work [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the main conference during oral sessions!
 -->
 
-- [11/2023] Meet me at The SoCal NLP Symposium (Los Angeles, CA) -- where I will present my lead-author works [Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf) and [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the poster sessions!
+- [11/2023] Meet me at The SoCal NLP Symposium, where I will present 2 papers (Los Angeles, CA).
 
-- [07/2023] Find me at my ACL 2023 Poster Stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and spotlight video below:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!---
-- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first lead author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf) at the main conference!
+<!---at UCLA (Los Angeles, CA) -- where I will present my lead-author works [Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf) and [Localizing Active Objects from Egocentric Vision with Symbolic World Knowledge](https://docs.google.com/presentation/d/12HzEpXb1RG5T6Sg7aer_hGaywmf5cV1vi7Fosy9323E/edit?usp=sharing) at the poster sessions!
 -->
 
+- [07/2023] Meet me at my ACL 2023 Poster Stand on on Wednesday, July 12th (Toronto, Canada).
+
+<!---
+Find me at my ACL 2023 Poster Stand in Session 7 between 11:00 - 12:30 on Wednesday, July 12th (Frontenac Ballroom and Queen’s Quay, Westin Harbour Castle, Toronto). Also feel free to check out my [virtual poster](https://underline.io/events/395/posters/15298/poster/76443-non-sequential-graph-script-induction-via-multimedia-grounding?tab=poster) and spotlight video below:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZ1MWM0o6l4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+- [05/2023] Meet me at ACL 2023 (Toronto, Canada) -- where I will present my first lead author work [Non-Sequential Graph Script Induction via Multimedia Grounding](https://aclanthology.org/2023.acl-long.303.pdf) at the main conference!
+
+
 - [02/2023] I joined [PLUS Lab](https://vnpeng.net/group/) as an undergraduate researcher advised by [Prof. Nanyun Peng](https://vnpeng.net/) at UCLA.
+-->
 
 
 - [07/2022] Meet me at NAACL 2023 (Seattle, WA) -- my first in-person conference!
 
+<!---
 - [05/2022] I joined [BLENDER Lab](http://blender.cs.illinois.edu/index.html) as an undergraduate research intern advised by [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html) at UIUC.
+-->
 
+<!---
 - [12/2021] Here's a fun demo in my recent project for CS188-DLCV adviced by [Prof. Bolei Zhou](https://boleizhou.github.io/):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H1gXwSYAml4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+-->
 
 
 <br/><br/>
@@ -73,7 +87,7 @@ Services
 ======
 ---
 
-- Programme Committee / Reviewer: ACL 2023, EMNLP 2023, EMNLP 2023 Industry Track <br/>
+- Programme Committee / Reviewer: NeurIPS, ICLR, ACL, EMNLP <br/>
 
 - Awards Committee: SoCal NLP Symposium 2023 <br/>
 
