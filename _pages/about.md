@@ -11,7 +11,7 @@ redirect_from:
 Hi, welcome to my homepage! I am a first year Computer Science Ph.D. student at UCLA. I am fortunate to be advised by [Prof. Nanyun Peng](https://violetpeng.github.io/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), focusing on problems in multimodal (language + vision) and embodied learning.
 
 
-Recently, I enjoyed a wonderful 6-month visit to [Stanford SVL](https://svl.stanford.edu/), working with [Prof. Jiajun Wu] and [Prof. Fei-Fei Li]. I've also spend a wonderful summer at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC in 2022.
+Recently, I enjoyed a wonderful 6-month visit to [Stanford SVL](https://svl.stanford.edu/), working with [Prof. Jiajun Wu](https://jiajunwu.com/) and [Prof. Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li). I've also spend a wonderful summer at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC in 2022.
 
 
 <br/>
