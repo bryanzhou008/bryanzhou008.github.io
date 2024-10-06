@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! I am currently a researcher at [Stanford SVL](https://svl.stanford.edu/). My existing works focus on helping models learn from **text**, **vision**, **human interactions**, and more. I am also interested in applying these models towards **social good** and **scientific advancement**.
+Hi, welcome to my homepage! I am a first year Computer Science Ph.D. student at UCLA. I am fortunate to be advised by [Prof. Nanyun Peng](https://violetpeng.github.io/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/), focusing on problems in multimodal (language + vision) and embodied learning.
 
 
-<!---
-topics including **Multimodal Learning**, **Events**, **Social Computing**, and **AI for Science**. I am also broadly interested in **Generation** and **Evaluation** under the multimodal context. 
--->
-
-I'm also an incoming PhD at UCLA working with [Prof. Nanyun Peng](https://vnpeng.net/) and [Prof. Kai-Wei Chang](http://web.cs.ucla.edu/~kwchang/). Previously, I interned at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC and the [Knowledge Engineering Group](https://keg.cs.tsinghua.edu.cn/) at Tsinghua University.
+Recently, I enjoyed a wonderful 6-month visit to [Stanford SVL](https://svl.stanford.edu/), working with [Prof. Jiajun Wu] and [Prof. Fei-Fei Li]. I've also spend a wonderful summer at [Prof. Heng Ji](http://blender.cs.illinois.edu/hengji/research.html)'s group at UIUC in 2022.
 
 
 <br/>
